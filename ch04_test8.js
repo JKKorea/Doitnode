@@ -19,6 +19,5 @@ fs.open('./output.txt', 'w', function(err, fd){
     fs.close(fd, function(){
        console.log('파일 닫기 완료함.'); 
     });
-        
   });
 });
