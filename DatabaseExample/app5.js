@@ -119,15 +119,15 @@ function createUserSchema() {
 	UserSchema
 	  .virtual('password')
 	  .set(function(password) {
-	    this._password = password;
+	    // this._password = password; 보안을 위해서 제거하는 것이 좋음.
 	    this.salt = this.makeSalt();
 	    this.hashed_password = this.encryptPassword(password);
 	    console.log('virtual password의 set 호출됨 : ' + this.hashed_password);
-	  })
-	  .get(function() {
-           console.log('virtual password의 get 호출됨.');
-           return this._password;
-      });
+	  });
+	  // .get(function() {
+   //         console.log('virtual password의 get 호출됨.');
+   //         return this._password;
+      // });
 	
 	// 스키마에 모델 인스턴스에서 사용할 수 있는 메소드 추가
 	// 비밀번호 암호화 메소드
@@ -164,7 +164,7 @@ function createUserSchema() {
 	UserSchema.pre('save', function(next) {
 		if (!this.isNew) return next();
 
-		if (!validatePresenceOf(this.password)) {
+		if (!validatePresenceOf(this.hashed_password)) {
 			next(new Error('유효하지 않은 password 필드입니다.'));
 		} else {
 			next();

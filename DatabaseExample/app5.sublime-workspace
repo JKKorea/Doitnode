@@ -1,1 +1,541 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"temp",
+				"temp_num"
+			],
+			[
+				"hit",
+				"hit_rate"
+			],
+			[
+				"hi",
+				"hi_mem"
+			],
+			[
+				"best",
+				"best_and_worst"
+			],
+			[
+				"i_m",
+				"i_member_name"
+			],
+			[
+				"member_",
+				"member_name"
+			],
+			[
+				"member",
+				"member_type"
+			],
+			[
+				"i_",
+				"i_member_num"
+			],
+			[
+				"i_me",
+				"i_member_num"
+			],
+			[
+				"mem",
+				"member_type"
+			],
+			[
+				"M",
+				"MEMBER_TYPE"
+			],
+			[
+				"me",
+				"member_name"
+			],
+			[
+				"mbes",
+				"member_size"
+			],
+			[
+				"Pi",
+				"Pitcher"
+			],
+			[
+				"Ear",
+				"Earned_inning"
+			],
+			[
+				"ti",
+				"time_at_bat"
+			],
+			[
+				"membery",
+				"member_type"
+			],
+			[
+				"Hi",
+				"Hitter"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"def",
+				"defense_rate"
+			],
+			[
+				"de",
+				"defense_rate"
+			],
+			[
+				"memb",
+				"member_name"
+			],
+			[
+				"E",
+				"Earned_inning"
+			],
+			[
+				"m",
+				"member_num"
+			],
+			[
+				"Da",
+				"DataType"
+			],
+			[
+				"Data",
+				"DataType"
+			],
+			[
+				"t",
+				"temp"
+			],
+			[
+				"int",
+				"int_num〔variable〕"
+			],
+			[
+				"Yo",
+				"Youtube에서"
+			],
+			[
+				"Co",
+				"Coursera를"
+			],
+			[
+				"Y",
+				"Youtube에서"
+			],
+			[
+				"cn",
+				"CNS의"
+			],
+			[
+				"na",
+				"name_space"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"SA",
+				"SALARY"
+			],
+			[
+				"sal",
+				"SALARY"
+			],
+			[
+				"be",
+				"beach"
+			],
+			[
+				"b",
+				"beach"
+			],
+			[
+				"doe",
+				"doenjang"
+			],
+			[
+				"do",
+				"doenjang"
+			],
+			[
+				"f",
+				"favorite"
+			],
+			[
+				"lis",
+				"listening"
+			],
+			[
+				"rel",
+				"relieve"
+			],
+			[
+				"mo",
+				"movie"
+			],
+			[
+				"p",
+				"pNext"
+			],
+			[
+				"Ma",
+				"Machine"
+			],
+			[
+				"send",
+				"send_email"
+			],
+			[
+				"케빈",
+				"케빈tv"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app5.js",
+			"settings":
+			{
+				"buffer_size": 12253,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 162.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 418.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Dropbox/4학년2학기/졸논/coding/lab12-5.py",
+		"/D/Dropbox/4학년2학기/졸논/coding/kospi.py",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_5/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_5/Polygons.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_5/Rectangle.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_5/Square.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_5/Polygons.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_5/Rectangle.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_5/Square.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_4/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_3/Base.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_3/Base.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_3/Derived1.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_3/Derived1.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_3/Derived2.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_3/Derived2.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_3/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_2/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_2/Square.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_2/Square.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_2/Rectangle.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_2/Rectangle.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_2/Polygons.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_2/Polygons.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_1/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab9/7/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab9/6/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab9/5/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab9/4/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab9/3/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab9/2/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab9/1/main.cpp",
+		"/D/Dropbox/4학년2학기/시분설/2017/중간고사대비.txt",
+		"/D/Dropbox/4학년2학기/고객/실습자료/HW1/HW1_2/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/HW1/HW1_2/Hitter.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/HW1/HW1_2/Hitter.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/HW1/HW1_1/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/HW1/HW1_1/Pitcher.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/HW1/HW1_1/Hitter.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/HW1/HW1_1/Pitcher.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/HW1/HW1_1/Hitter.h",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_2013_1/4/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_2013_1/5/5.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_2013_1/5/BaseTV.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_2013_1/5/ChildTVs.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/2014_Exam2/Q2/BusinessCard.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/2014_Exam2/Q5/Milk.h",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/2014_Exam2/Q5/Americano.h",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/2014_Exam2/Q5/Espresso.h",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/2014_Exam2/Q5/Condiment.h",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/2014_Exam2/Q5/HouseBlend.h",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/2014_Exam2/Q5/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/2014_Exam2/Q5/Mocha.h",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/2014_Exam2/Q5/Water.h",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/2014_Exam2/Q5/Whipping.h",
+		"/D/Dropbox/4학년2학기/고객/시험/quiz6/quiz6/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_solution/Exam02_4/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02/Exam02_06/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02/Exam02_06/DataType.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02/Exam02_04/Cart.h",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02/Exam02_04/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02/Exam02_03/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02/Exam02_03/Cart.h",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/2014_Exam2/Q2/Question2.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/2014_Exam2/Q5/Beverage.h",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_2013_1/3/GiftCard.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_2013_1/3/3.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_2013_1/4/Student.h",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_solution/Exam02_4/input.txt",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_solution/Exam02_3/Unit.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_solution/Exam02_3/week8.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_solution/Exam02_2/solution.cpp",
+		"/D/Dropbox/4학년2학기/고객/시험/previous_exam2s/Exam02_solution/Exam02/IntArray.h",
+		"/D/Google_Drive/dev/Doitnode/README",
+		"/D/Google_Drive/dev/doitnode/README",
+		"/C/Users/jk/Desktop/lab_6/submit.py",
+		"/C/Users/jk/Desktop/lab_6/factorial_calculator.py",
+		"/C/Users/jk/Desktop/English.srt",
+		"/G/Gold.2016.1080p.WEB-DL.DD5.1.H264-FGT/English.srt",
+		"/H/새폴더/lab7/lab7_1/Base.h",
+		"/H/새폴더/lab7/lab7_1/main.cpp",
+		"/H/새폴더/lab7/lab7_1/Base.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_1/Base.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab7/lab7_1/Base.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab6/lab6_6/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab6/lab6_5/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab6/lab6_4/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab6/lab6_3/main.cpp",
+		"/D/Dropbox/4학년2학기/데이터베이스/2017/db 중간고사 대비.txt",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab6/lab6_2/Rectangle.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab6/lab6_2/main.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab6/lab6_2/Rectangle.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab6/lab6_1/Fraction.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab6/lab6_1/Fraction.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab6/lab6_1/main.cpp",
+		"/D/Dropbox/4학년2학기/데이터베이스/기출/중간고사.txt",
+		"/D/Dropbox/4학년2학기/데이터베이스/기출/기출문제.txt",
+		"/D/Google_Drive/dev/algorithm/593.py",
+		"/D/Dropbox/4학년2학기/데이터베이스/2017db/데이터베이스/실습/[lab5]_2011103190_이종건.txt",
+		"/D/Dropbox/4학년2학기/데이터베이스/2017db/데이터베이스/실습/[lab4]_2011103190_이종건.txt",
+		"/D/Dropbox/4학년2학기/데이터베이스/2017db/데이터베이스/실습/[lab3]_2011103190_이종건.txt",
+		"/D/Dropbox/4학년2학기/데이터베이스/2017db/데이터베이스/실습/[lab02]_2011103190_이종건.txt",
+		"/D/Dropbox/4학년2학기/데이터베이스/2017db/데이터베이스/실습/[lab01]_2011103190_이종건.txt",
+		"/D/Dropbox/4학년2학기/데이터베이스/2017db/데이터베이스/실습/jdbc.java",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_6/Timer.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_6/ch11_p06.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_6/Timer.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_5/Fraction.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_5/ch11_p05.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_5/Fraction.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_4/Fraction.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_4/ch11_p04.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_4/Fraction.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_3/Fraction.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_3/Fraction.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_3/ch11_p03.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_2/InitializationTest.cpp",
+		"/D/Dropbox/to do list.txt",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_2/ch11_p02.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_2/InitializationTest.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_1/Fraction.h",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_1/ch11_p01.cpp",
+		"/D/Dropbox/4학년2학기/고객/실습자료/lab5/lab5_1/Fraction.cpp",
+		"/D/Dropbox/4학년2학기/졸논/졸논 추가사항들.txt",
+		"/C/Users/jk/tensorflow_workspace/graduate/kospi.py",
+		"/C/Users/jk/tensorflow_workspace/graduate/lab-12-5-rnn_stock_prediction.py",
+		"/D/Dropbox/4학년2학기/졸논/졸업연구 주제 예시.txt",
+		"/D/Dropbox/4학년2학기/졸논/졸연구.txt"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"authenticate",
+			"isfull",
+			"addElem",
+			"aryPrint",
+			"find",
+			"retrieve",
+			"arySize",
+			"이해",
+			"Product",
+			"머신러닝",
+			"이카운트",
+			"NumRoot",
+			"tot"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app5.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6516,
+								6516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7175.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app5.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
